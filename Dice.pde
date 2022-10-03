@@ -1,7 +1,7 @@
 void setup()
 {
   noLoop();
-  size(500, 600);
+  size(500, 550);
 }
 void draw()
 {
@@ -28,7 +28,7 @@ void draw()
        }
      }
   }
-  text("The sum is " + counter + "!", 215, 575);
+  text("The sum is " + counter + "!", 215, 530);
 }
 void mousePressed()
 {
