@@ -28,7 +28,7 @@ void draw()
        }
      }
   }
-  text("The sum is " + counter + "!", 5, 550);
+  text("The sum is " + counter + "!", 215, 575);
 }
 void mousePressed()
 {
